@@ -1,7 +1,7 @@
 codeigniter-kint
 ================
 
-A modification to the [Kint debugging library](http://code.google.com/p/kint/) for use in CodeIgniter. Currently based on v32.
+A modification to the [Kint debugging library](https://github.com/raveren/kint) for use in CodeIgniter. Currently based on v32.
 
 Made a few modifications to allow easy use in CodeIgniter. Simply load the library:
 
