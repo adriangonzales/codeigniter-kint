@@ -6,7 +6,8 @@ A modification to the [Kint debugging library](https://github.com/raveren/kint) 
 Made a few modifications to allow easy use in CodeIgniter. Simply load the library:
 
 ```php
-$this->load->library('kint');
+// linux or windows is ok
+$this->load->library('Kint/kint');
 ```
 
 And then use Kint as normal:
