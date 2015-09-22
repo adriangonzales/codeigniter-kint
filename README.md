@@ -8,6 +8,11 @@ Made a few modifications to allow easy use in CodeIgniter. Simply load the libra
 ```php
 $this->load->library('kint');
 ```
+And if you wish to use Kint in daily use, add 'kint' to autoload config file:
+
+```php
+$autoload['libraries'] = array('kint');
+```
 
 And then use Kint as normal:
 
